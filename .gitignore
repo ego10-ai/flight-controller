@@ -1,0 +1,26 @@
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore build artifacts
+build/
+dist/
+*.o
+*.exe
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+ Ignore EasyEDA temp files
+*.sch.bak
+*.pcb.bak
+#
+# Ignore images
+img/
