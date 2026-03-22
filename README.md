@@ -46,7 +46,7 @@ Power & Connectivity
 
 4.If using Betaflight, go to the Firmware Flasher tab.
 
-5.Select the correct target for the STM32F412 processor.
+5.Select the correct target for the STM32F405 target processor.
 
 ## Contributing
 
